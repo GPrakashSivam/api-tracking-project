@@ -31,7 +31,7 @@ cd api-tracking-project
 Create a virtual environment to isolate your project dependencies:
 
 ```bash
-python -m venv api-tracking-project
+python -m venv api-tracking-venv
 ```
 
 Activate the virtual environment:
@@ -42,7 +42,7 @@ Activate the virtual environment:
   ```
 - **For Windows**:
   ```bash
-  venv\Scripts\activate
+  api-tracking-venv\scripts\activate
   ```
 
 ### 3. Install Dependencies
